@@ -2,7 +2,7 @@
 Proyek ini adalah database untuk Sekolah Dasar yang dirancang untuk mengelola informasi tentang guru, kelas, mata pelajaran, siswa, dan pencapaian akademik. Database ini memungkinkan Sekolah Dasar untuk memantau performa akademik siswa, informasi guru, dan data kelas dengan bantuan query SQL yang telah diimplementasikan.
 
 # Database-schema
-Database ini menggunakan alur star schema dengan terdiri dari 4 tabel dimensi berupa : Tabel Guru, Tabel Kelas, Tabel Mata Pelajaran, Tabel Siswa. untuk tabel faktanya teerdiri dari 1 tabel berupa Tabel Pencapaian Akademik.
+Database ini menggunakan alur star schema dengan terdiri dari 4 tabel dimensi berupa : Tabel Guru, Tabel Kelas, Tabel Mata Pelajaran, Tabel Siswa. untuk tabel faktanya terdiri dari 1 tabel fakta berupa Tabel Pencapaian Akademik.
 ![beriukut rancangan ERD nya](ERD_School_Data_Base.png)
 
 
