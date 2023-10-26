@@ -3,7 +3,7 @@ Proyek ini adalah database untuk Sekolah Dasar yang dirancang untuk mengelola in
 
 # Database-schema
 Database ini menggunakan alur star schema dengan terdiri dari 4 tabel dimensi berupa : Tabel Guru, Tabel Kelas, Tabel Mata Pelajaran, Tabel Siswa. untuk tabel faktanya teerdiri dari 1 tabel berupa Tabel Pencapaian Akademik.
-! (ERD_school_Data_Base.png)
+![beriukut rancangan ERD nya](ERD_school_Data_Base.png)
 
 
 # School Management
